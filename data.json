@@ -1,0 +1,32 @@
+[
+  {
+    "name": "LeetCode Practice",
+    "schedule": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "daily_logs": [
+      { "date": "2026-01-10", "outcome": "Missed" },
+      { "date": "2026-01-11", "outcome": "Completed" }
+    ]
+  },
+  {
+    "name": "Reading",
+    "schedule": ["Saturday", "Sunday"],
+    "daily_logs": [
+      { "date": "2026-01-10", "outcome": "Completed" },
+      { "date": "2026-01-11", "outcome": "Completed" },
+      { "date": "2026-01-12", "outcome": "Missed" },
+      { "date": "2026-01-13", "outcome": "Completed" }
+    ]
+  },
+  {
+    "name": "Running",
+    "schedule": ["Monday", "Thursday"],
+    "daily_logs": [
+      { "date": "2026-01-13", "outcome": "Completed" }
+    ]
+  },
+  {
+    "name": "Coding",
+    "schedule": ["Monday", "Tuesday"],
+    "daily_logs": []
+  }
+]
